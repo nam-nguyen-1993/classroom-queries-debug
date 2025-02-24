@@ -1,3 +1,5 @@
+
+
 class EnrollmentsController < ApplicationController
   def create
     @enrollment = Enrollment.new
